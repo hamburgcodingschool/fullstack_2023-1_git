@@ -1,9 +1,18 @@
 # Git & GitHub
 ## Full Stack Course - 2023 #1
 
-### ⚙️ Installation Instructions
+### ⚙️ Installation Instructions (MacOS)
 
-- ...
+1. Check if git is already installed:
+    - Open the Terminal
+    - Type in: `git --version`
+2. If it is not installed:
+    - Check if you have homebrew installed: `brew --version`
+    - If not, install it:
+    ```
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    ```
+    - Then type: `brew install git`
 
 ### 📄 Docs
 
