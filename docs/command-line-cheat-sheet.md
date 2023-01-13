@@ -24,6 +24,11 @@ Go into a folder in a folder in a folder...
 cd <path/to/your/folder>
 ```
 
+Go into the parent folder (one up):
+```
+cd ..
+```
+
 Create a new folder:
 ```
 mkdir folder_name
