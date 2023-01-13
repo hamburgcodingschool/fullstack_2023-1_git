@@ -24,6 +24,8 @@
 
 - [Command Line Cheat Sheet](/docs/command-line-cheat-sheet.md)
 
+- [Git Cheat Sheet](/docs/git-cheat-sheet.md)
+
 
 ### 🤔 Questions?
 
