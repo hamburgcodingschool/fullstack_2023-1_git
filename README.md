@@ -26,6 +26,8 @@
 
 - [Git Cheat Sheet](/docs/git-cheat-sheet.md)
 
+- [Markdown Cheat Sheet](/docs/markdown-cheat-sheet.md)
+
 
 ### 🤔 Questions?
 
