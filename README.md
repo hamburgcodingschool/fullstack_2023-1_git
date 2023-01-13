@@ -20,7 +20,7 @@
 
 - [Handout](/docs/Handout%20-%20Git%20%26%20GitHub.pdf)
 
-- [Outline](https://...)
+- [Outline](/docs/outline.md)
 
 
 ### 🤔 Questions?
