@@ -22,6 +22,8 @@
 
 - [Outline](/docs/outline.md)
 
+- [Command Line Cheat Sheet](/docs/command-line-cheat-sheet.md)
+
 
 ### 🤔 Questions?
 
