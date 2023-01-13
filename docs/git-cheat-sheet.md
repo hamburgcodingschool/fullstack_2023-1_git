@@ -114,6 +114,24 @@ git branch -D feature
 
 ## Other
 
+**Configure the user name:**
+```
+git config --global user.name "Mona Lisa"
+```
+Show user name:
+```
+git config --global user.name
+```
+
+**Configure user email:**
+```
+git config --global user.email "mona.lisa@example.com"
+```
+Show user email:
+```
+git config --global user.email
+```
+
 **Get help:**
 ```
 git --help
